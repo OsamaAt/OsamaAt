@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML Models<br>👯 I’m looking to collaborate on AI companies<br>🤝 I’m looking for help with build a peaceful world full in AI <br>🌱 I’m currently learning and i won't stop ! <br>💬 Ask me about AI / ML / DL / NN / CNN / RNN
+🔭 I’m currently working on ML Models<br>👯 I’m looking to collaborate with AI companies<br>🤝 I’m looking for help with build a peaceful world full in AI <br>🌱 I’m currently learning and i won't stop ! <br>💬 Ask me about AI / ML / DL / NN / CNN / RNN
 
 
 # 💻 Tech Stack:
